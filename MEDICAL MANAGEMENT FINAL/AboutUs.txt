@@ -1,8 +1,8 @@
-This Program 'Hospital Management System' was created by Sannidhya Sahoo, Karthik R Nair and Abhinav Singh of class 12 C of Kendriya Vidyalaya AFS Yelahanka.
+This Program 'Hospital Management System' was created by Sannidhya Sahoo of class 12 C of Kendriya Vidyalaya AFS Yelahanka.
 
 
-In the accomplishment of this project successfully, many people have bestowed upon us their blessings and their heart pledged support. We thank all the people who been concerned with our project.
-Primarily, we would like to express our heartfelt gratitude to our Computer Science teacher, Mr. Goverdhan Satish whose valuable guidance has been very crucial in the success of this project. His suggestions and instructions served as the major contributor towards the completion of this project.
-Then we would like to thank our parents and friends who have helped us. Their valuable support and guidance has been helpful in the various phases of the completion of the project.
+In the accomplishment of this project successfully, many people have bestowed upon me their blessings and their heart pledged support. I thank all the people who been concerned with my project.
+Primarily, I would like to express my heartfelt gratitude to my Computer Science teacher, Mr. Goverdhan Satish whose valuable guidance has been very crucial in the success of this project. His suggestions and instructions served as the major contributor towards the completion of this project.
+Then I would like to thank my parents and friends who have helped us. Their valuable support and guidance has been helpful in the various phases of the completion of the project.
 
 
